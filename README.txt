@@ -1,4 +1,5 @@
 超级评教王 (Super Evaluation King)
+（名字致敬传奇的超级乐跑王）
 
 这是一个基于 Python、Tkinter 和 Playwright 的自动化脚本，用于自动完成东北大学（NEU）的学生评教任务。
 本工具通过模拟浏览器操作，自动登录并为你所有的课程提交评教。
@@ -21,7 +22,7 @@
 安装与使用
 1.  准备环境
 首先，克隆或下载本仓库到你的本地。
-然后进入项目目录 (cd Super\_Evaluation\_King)
+然后进入项目目录
 2.  创建虚拟环境
 强烈建议使用 Python 虚拟环境 (venv) 来管理项目依赖。
 (例如: python -m venv .venv)
